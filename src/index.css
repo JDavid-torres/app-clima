@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Madimi+One&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+html{
+    font-family: "Anta", sans-serif;
+}
+body{
+    margin: 0;
+}
+h1, h2, h3, p, ul{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+img{
+    display: block;
+    width: 100;
+}
+input, button{
+    font-family: inherit;
+}
+button{
+    cursor: pointer;
+}
